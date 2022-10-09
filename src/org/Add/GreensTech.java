@@ -2,6 +2,8 @@ package org.Add;
 
 public class GreensTech {
 	//methods
+	
+	
 	private void greensOMR() {
 		System.out.println("OMR");
 		
@@ -21,6 +23,9 @@ public class GreensTech {
 		private void greensAnnaNagr() {
 			System.out.println("ANNANAGAR");
 			
+		}
+		private void greensPerumbakkam() {
+			System.out.println("PERUMBAKKAM");
 		}
 
 //MAIN METHOD
