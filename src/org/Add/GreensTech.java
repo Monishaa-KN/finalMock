@@ -22,6 +22,11 @@ public class GreensTech {
 			System.out.println("ANNANAGAR");
 			
 		}
+		
+		private void greensMogappai() {
+			System.out.println("MOGAPARI");
+
+		}
 
 //MAIN METHOD
 public static void main(String[]args) {
